@@ -1,0 +1,5 @@
+package com.edwineinsen;
+
+public enum Genre {
+    FICTION, NON_FICTION, MYSTERY, ROMANCE, SCIENCE_FICTION, FANTASY, BIOGRAPHY, HISTORY, CHILDREN
+}
